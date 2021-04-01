@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PCBaum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Electronic Engineering @ universiy
+- 👀 I’m interested in almost anything
+- 🌱 I’m currently learning Electrical Engineering @ universiy
 - 📫 How to reach me: Discord: PCBaum #3818
 
 <!---
