@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PCBaum
-- 👀 I’m interested in almost anything
-- 🌱 I’m currently learning Electrical Engineering @ universiy
-- 📫 How to reach me: Discord: PCBaum #3818
+- Nothing else here
 
 <!---
 PCBaum/PCBaum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
